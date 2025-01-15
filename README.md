@@ -17,7 +17,9 @@ A simple web application that recommends movies using Machine Learning, built wi
 - Autocomplete suggestions in the search bar
 
 ## Screenshots ⭐️
+![image](https://github.com/user-attachments/assets/1f407730-ea3f-4c85-8d48-a1d4eb84986d)
 
+![image](https://github.com/user-attachments/assets/13bf2b97-1360-4407-ab19-a8110da49c77)
 
 
 ##  Running the Project Locally ⭐️
@@ -28,13 +30,9 @@ Clone the Project:
 
 
 Install Dependencies:
-bash
-
 
 `npm install`
 Start the Server:
-bash
-
 
 `npm start`
 For the Back End:
